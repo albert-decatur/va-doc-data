@@ -1,21 +1,26 @@
-# NB: do not start by removing scratch/
+# NB: do not start by removing output/
 
-all: scratch/%.tsv
+all: output/%.tsv
 
-scratch/%.tsv: scratch/%.xlsx
-	for xlsx in scratch/*.xlsx; do  cat $$xlsx | ssconvert --export-type Gnumeric_stf:stf_assistant -O 'separator="	"' fd://0 scratch/`basename $$xlsx .xlsx`.tsv; rm $$xlsx; done
+output/%.tsv: output/%.xlsx
+	for xlsx in output/*.xlsx;\
+ 	do \
+		cat $$xlsx |\
+		ssconvert --export-type Gnumeric_stf:stf_assistant -O 'separator="	"' fd://0 output/`basename $$xlsx .xlsx`.tsv;\
+		rm $$xlsx;\
+	done
 
-scratch/%.xlsx: scratch/%.zip
-	for zip in scratch/*.zip;\
+output/%.xlsx: output/%.zip
+	for zip in output/*.zip;\
 	do \
-		unzip -d scratch/ $$zip;\
+		unzip -d output/ $$zip;\
 		rm $$zip;\
 	done
 
-scratch/%.zip:
-	-rm -r scratch/ 2>/dev/null
-	mkdir scratch/ 2>/dev/null
-	cp input/*.zip scratch/
+output/%.zip:
+	-rm -r output/ 2>/dev/null
+	mkdir output/ 2>/dev/null
+	cp input/*.zip output/
 
 clean:
-	rm -rf scratch/
+	rm -rf output/
