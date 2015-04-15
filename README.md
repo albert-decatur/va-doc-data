@@ -11,8 +11,8 @@ last_name|
 first_name|
 middle_name|
 suffix|
-pp_address1|
-pp_address2|
+pp_address1|primary office address info
+pp_address2|further primary office address info like suite number
 pp_city|
 pp_state|
 pp_zip|
@@ -32,6 +32,7 @@ count_pp_language_office|count of languages spoken in office|1
 count_pp_language_practitioner|count of languages spoken by practitioner|1
 count_pp_days_seen|count of pp_days_seen|1
 count_self_spec_code|count of specialties engaged in by practitioner|1
+concat_address|concatenation of all address components except for pp_address2 which is not useful for geocoders|1
 
 ##Caveats
 
