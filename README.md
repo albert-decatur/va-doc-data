@@ -18,8 +18,8 @@ pp_state|
 pp_zip|
 pp_language_office|languages spoken in office
 pp_language_practitioner|languages spoken by practitioner
-pp_percent_location|
-pp_days_seen|
+pp_percent_location|percent of time practitioner seen in primary address
+pp_days_seen|days practitioner seen in primary address
 self_spec_code|specialties engaged in by practitioner
 medicaid|"1 = Participates in Virginia Medicare Program"
 medicaid_new|"1 = Accepts new Medicare patients"
@@ -39,3 +39,7 @@ concat_address|concatenation of all address components except for pp_address2 wh
 * some practitioners are seen, in the words of the Beatles, "8 days a week."  This is because 'None' is one of their entires in addition to every day of the week
 * some language entries mistakenly used the names of the languages rather than the codes - this has not been accounted for
 * the column pp_percent_location is original, and probably more useful than count_pp_days_seen which is derived
+
+## TODO
+
+* check if count_pp_days_seen works with pp_percent_location between primary and secondary addresses
