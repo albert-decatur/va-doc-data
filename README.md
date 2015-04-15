@@ -1,7 +1,7 @@
 #va-doc-data
 
 
-Data originally from the [Virginia Department of Health Professions](www.dhp.virginia.gov/downloads/profiledata.asp).
+Data originally from the [Virginia Department of Health Professions](http://www.dhp.virginia.gov/downloads/profiledata.asp).
 
 ## main_out
 The following columns are available in the main_out table:
