@@ -1,33 +1,37 @@
+#va-doc-data
 
-The following columns have been derived:
-column_position|column_name|column_meaning
+Data originally from the [Virginia Department of Health Professions](www.dhp.virginia.gov/downloads/profiledata.asp).
+
+The following columns are available in the main_out table:
+
+column_name|column_meaning|whether_derived
 ---|---|---
-1|license_no|
-2|last_name|
-3|first_name|
-4|middle_name|
-5|suffix|
-6|pp_address1|
-7|pp_address2|
-8|pp_city|
-9|pp_state|
-10|pp_zip|
-11|pp_language_office|
-12|pp_language_practitioner|
-13|pp_percent_location|
-14|pp_days_seen|
-15|self_spec_code|
-16|medicaid|
-17|medicaid_new|
-18|medicare|
-19|medicare_provider|
-20|medicare_new|
-21|latitude|
-22|longitude|
-23|count_pp_language_office|
-24|count_pp_language_practitioner|
-25|count_pp_days_seen|
-26|count_self_spec_code|
+license_no|
+last_name|
+first_name|
+middle_name|
+suffix|
+pp_address1|
+pp_address2|
+pp_city|
+pp_state|
+pp_zip|
+pp_language_office|languages spoken in office
+pp_language_practitioner|languages spoken by practitioner
+pp_percent_location|
+pp_days_seen|
+self_spec_code|specialties engaged in by practitioner
+medicaid|"1 = Participates in Virginia Medicare Program"
+medicaid_new|"1 = Accepts new Medicare patients"
+medicare|"1= Is a Medicare participating provider"
+medicare_provider|"1 = Is a Medicare Non-participating provider"
+medicare_new|"1 = Is accepting new Medicare patients"
+latitude||1
+longitude||1
+count_pp_language_office|count of languages spoken in office|1
+count_pp_language_practitioner|count of languages spoken by practitioner|1
+count_pp_days_seen|count of pp_days_seen|1
+count_self_spec_code|count of specialties engaged in by practitioner|1
 
 ##Caveats
 
