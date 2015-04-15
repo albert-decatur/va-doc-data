@@ -1,0 +1,212 @@
+id	specialty	type
+65	"Occupational Medicine"	MD
+68	Ophthalmology	MD
+70	"Orthopaedic Surgery: Hand"	MD
+72	"Orthopaedic Surgery: Pediatric Orthopaedics"	MD
+73	"Orthopaedic Surgery: Sports Medicine"	MD
+80	"Pathology: Anatomic/Clinical"	MD
+84	"Pathology: Cytopathology"	MD
+87	"Pathology: Immunopathology"	MD
+1017	"Family Practice: Addiction Medicine"	DO
+1035	"Internal Medicine: Addiction Medicine"	DO
+1054	"Nuclear Medicine: Nuclear Imaging And Therapy"	DO
+1062	"Ophthalmology & Otolaryngology-Head & Neck Surgery: Otolaryngology"	DO
+1063	"Ophthalmology & Otolaryngology-Head & Neck Surgery: Facial Plastic Surgery"	DO
+1064	"Ophthalmology & Otolaryngology-Head & Neck Surgery: Otolaryngology/Facial Plastic Surgery"	DO
+1066	"Pathology: Laboratory Medicine"	DO
+107	"Plastic Surgery: Hand Surgery"	MD
+1080	"Pediatrics: Neonatology"	DO
+109	"Preventive Medicine: General"	MD
+1091	"Preventive Medicine: Preventive Medicine/Occupational-Environmental Medicine"	DO
+1101	"Radiology: Roentgenology"	DO
+1102	"Radiology: Radiation Therapy"	DO
+1103	"Radiology: Angiography & Interventional Radiology"	DO
+1105	"Radiology: Diagnostic Ultrasound"	DO
+1109	"Rehabilitation Medicine"	DO
+112	"Psychiatry: Geriatric"	MD
+113	Psychoanalysis	MD
+117	"Radiological Physics"	MD
+123	Rheumatology	MD
+124	"Sleep Disorders"	MD
+125	"Surgery: Abdominal"	MD
+127	"Surgery: Colon And Rectal"	MD
+151	"Dermatology: Clinical & Laboratory Dermatological Immunology"	MD
+153	"Dermatology: Pediatric Dermatology"	MD
+161	"Emergency Medicine: Medical Toxicology"	MD
+162	"Emergency Medicine: Pediatric Emergency Medicine"	MD
+164	"Emergency Medicine: Undersea & Hyperbaric Medicine"	MD
+195	"Medical Genetics: Molecular Genetic Pathology"	MD
+2003	"Podiatric: Orthopedics and Primary Podiatric Medicine"	DPM
+250	"Hospice and Palliative Care"	MD
+231	"Medical Informatics"	MD
+260	Phlebology	MD
+860	Hospitalist	MD
+1045	"Neurology And Psychiatry: Neurology/Psychiatry"	DO
+1053	"Nuclear Medicine: Nuclear Cardiology"	DO
+1068	"Pathology: Anatomic Pathology And Laboratory Medicine"	DO
+108	"Poverty Medicine"	MD
+1112	"Special Proficiency In Osteopathic Manipulative Medicine: Sports Medicine"	DO
+1114	"Surgery: Neurological Surgery"	DO
+1116	"Surgery: Thoracic Cardiovascular Surgery"	DO
+1117	"Surgery: Urological Surgery"	DO
+115	"Pulmonary Diseases"	MD
+121	"Radiology: Vascular And Interventional"	MD
+131	"Surgery: Head And Neck"	MD
+137	"Surgery: Traumatic"	MD
+192	"Medical Genetics: Clinical Genetics"	MD
+2008	"Podiatric: Pediatrics"	DPM
+2013	"Podiatric: Foot and Ankle Surgery"	DPM
+2014	"Podiatric: Reconstructive Rearfoot/Ankle Surgery"	DPM
+2016	"Podiatric: Foot and Ankle Orthopedics and Medicine"	DPM
+300	"Obstetrics And Gynecology"	MD
+302	"Obstetrics And Gynecology: Gynecologic Oncology"	MD
+451	"Otolaryngology: Otology/Neurotology"	MD
+504	"Pathology: Chemical Pathology"	MD
+506	"Pathology: Dermatopathology"	MD
+510	"Pathology: Medical Microbiology"	MD
+511	"Pathology: Molecular Genetic Pathology"	MD
+513	"Pathology: Pediatric Pathology"	MD
+551	"Pediatrics: Adolescent/Young Adult Medicine"	MD
+553	"Pediatrics: Developmental-Behavioral Peds"	MD
+555	"Pediatrics: Neonatal-Perinatal Medicine"	MD
+558	"Pediatrics: Critical Care Medicine"	MD
+566	"Pediatrics: Rheumatology"	MD
+652	"Plastic Surgery: Plastic Surgery Within The Head & Neck"	MD
+701	"Preventive Medicine: Aerospace Medicine"	MD
+702	"Preventive Medicine: Occupational Medicine"	MD
+703	"Preventive Medicine: Public Health & General Preventive Medicine"	MD
+759	"Psychiatry & Neurology: Pain Management"	MD
+805	"Radiology: Nuclear Radiology"	MD
+850	Surgery	MD
+7	Anesthesiology	MD
+603	"Physical Medicine & Rehabilitation: Pediatric Rehabilitation Medicine"	MD
+800	Radiology	MD
+854	"Surgery: Surgical Critical Care"	MD
+4	Allergy	MD
+105	"Pharmacology: Clinical"	MD
+1104	"Radiology: Body Imaging"	DO
+114	"Public Health"	MD
+201	"Internal Medicine: Adolescent Medicine"	MD
+301	"Obstetrics And Gynecology: Critical Care Medicine"	MD
+567	"Pediatrics: Sports Medicine"	MD
+705	"Preventive Medicine: Undersea & Hyperbaric Medicine"	MD
+28	"Family Practice: Sports Medicine"	MD
+47	"Medical Genetics"	MD
+59	"Nuclear Medicine"	MD
+74	"Orthopaedic Surgery: Spine Surgery"	MD
+1000	"Ophthalmology & Otolaryngology-Head & Neck Surgery"	DO
+2012	"Podiatric: Sports Medicine"	DPM
+211	"Internal Medicine: Interventional Cardiology"	MD
+304	"Obstetrics And Gynecology: Reproductive Endocrinology"	MD
+452	"Otolaryngology: Pediatric Otolaryngology"	MD
+453	"Otolaryngology: Plastic Surgery Within The Head And Neck"	MD
+501	"Pathology: Anatomic Pathology"	MD
+552	"Pediatrics: Clinical & Laboratory Immunology"	MD
+556	"Pediatrics: Neurodevelopmental Disabilities"	MD
+560	"Pediatrics: Endocrinology"	MD
+564	"Pediatrics: Nephrology"	MD
+600	"Physical Medicine & Rehabilitation"	MD
+602	"Physical Medicine & Rehabilitation: Spinal Cord Injury Medicine"	MD
+753	"Psychiatry & Neurology: Addiction Psychiatry"	MD
+802	"Radiology: Radiation Oncology"	MD
+803	"Radiology: Radiological Physics"	MD
+804	"Radiology: Neuroradiology"	MD
+852	"Surgery: Pediatric Surgery"	MD
+16	"Critical Care Medicine"	MD
+17	Dermatology	MD
+25	"Facial Plastic Surgery: Otolaryngology"	MD
+31	"Allergy And Immunology:  Clinical/Diagnostic & Laboratory Immunology"	MD
+33	Gynecology	MD
+35	Hepatology	MD
+40	"Internal Medicine: Cardiac Electrophysiology"	MD
+45	"Legal Medicine"	MD
+61	Nutrition	MD
+62	Obstetrics	MD
+22	"Emergency Medicine"	MD
+23	"Emergency Medicine: Sports Medicine"	MD
+24	Endocrinology	MD
+951	"General Practice"	MD
+36	Immunology	MD
+37	Immunopathology	MD
+38	"Infectious Diseases"	MD
+39	"Internal Medicine"	MD
+41	"Internal Medicine: Diagnostic Laboratory Immunology"	MD
+44	"Lactation Consultant"	MD
+51	"Anesthesiology: Critical Care Medicine"	MD
+953	Nephrology	MD
+954	Neurology	MD
+54	"Neurology: Clinical Neurophysiology"	MD
+55	"Neurology: Pediatric Surgery"	MD
+58	Neurourology	MD
+66	"Oncology: Medical"	MD
+67	"Oncology: Surgical"	MD
+71	"Orthopaedic Surgery: Musculoskeletal Oncology"	MD
+77	Otology	MD
+81	"Pathology: Blood Banking"	MD
+85	"Pathology: Forensic"	MD
+91	Pediatrics	MD
+1018	"Family Practice: Adolescent/Young Adult Medicine"	DO
+1027	"Internal Medicine: Hematology/Oncology"	DO
+1047	"Neurology And Psychiatry: Neuromusculoskeletal Medicine"	DO
+1048	"Neurology And Psychiatry: Sports Medicine"	DO
+1055	"Nuclear Medicine: In Vivo And In Vitro Nuclear Medicine"	DO
+1061	"Ophthalmology & Otolaryngology-Head & Neck Surgery: Ophthalmology"	DO
+1081	"Pediatrics: Pediatric Allergy/Immunology"	DO
+1086	"Pediatrics: Intensive Care"	DO
+1092	"Preventive Medicine: Preventive Medicine/Public Health"	DO
+1099	"Radiology: Diagnostic Roentgenology"	DO
+110	Psychiatry	MD
+1110	"Rehabilitation Medicine: Sports Medicine"	DO
+1111	"Neuromusculoskeletal Medicine: Special Proficiency In Neuro-Musculoskeletal Medicine"	DO
+1115	"Surgery: Plastic And Reconstructive Surgery"	DO
+119	"Radiology Diagnostic"	MD
+126	"Surgery: Cardiovascular"	MD
+141	Other	MD
+152	"Dermatology: Dermatopathology"	MD
+191	"Medical Genetics: Clinical Cytogenetics"	MD
+204	"Internal Medicine: Clinical & Laboratory Immunology"	MD
+2009	"Podiatric: Dermatology"	DPM
+2011	"Podiatric: Radiology"	DPM
+955	Acupuncture	MD
+956	Pathology	MD
+208	"Internal Medicine: Geriatric Medicine"	MD
+2015	"Podiatric: Foot Surgery"	DPM
+216	"Internal Medicine: Sports Medicine"	MD
+303	"Obstetrics And Gynecology: Maternal & Fetal Medicine"	MD
+400	"Orthopaedic Surgery"	MD
+450	Otolaryngology	MD
+554	"Pediatrics: Medical Toxicology"	MD
+561	"Pediatrics: Gastroenterology"	MD
+563	"Pediatrics: Infectious Diseases"	MD
+565	"Pediatrics: Pulmonology"	MD
+601	"Physical Medicine & Rehabilitation: Pain Management"	MD
+650	"Plastic Surgery"	MD
+704	"Preventive Medicine: Medical Toxicology"	MD
+754	"Psychiatry & Neurology: Child & Adolescent Psychiatry"	MD
+756	"Psychiatry & Neurology: Forensic Psychiatry"	MD
+758	"Psychiatry & Neurology: Neurodevelopmental Disabilities"	MD
+801	"Radiology: Diagnostic Radiology"	MD
+806	"Radiology: Pediatric Radiology"	MD
+851	"Surgery: General Vascular Surgery"	MD
+853	"Surgery: Surgery Of The Hand"	MD
+10	"Cardiovascular Diseases"	MD
+19	"Dermatological Immunology: Diagnostic Laboratory Immunology"	MD
+26	"Family Practice"	MD
+27	"Family Practice: Geriatric Medicine"	MD
+29	Gastroenterology	MD
+30	"Allergy And Immunology"	MD
+32	"Gynecological Oncology"	MD
+34	Hematology	MD
+49	"Neonatal/Perinatal Medicine"	MD
+52	"Anesthesiology: Pain Management"	MD
+69	"Orthopaedic Surgery: Adult Reconstructive Orthopaedics"	MD
+75	"Orthopaedic Surgery: Trauma"	MD
+83	"Pathology: Clinical"	MD
+86	"Pathology: Hematology"	MD
+88	"Pathology: Neuropathology"	MD
+90	"Pathology: Radioisotopic"	MD
+92	"Pediatrics: Allergy"	MD
+93	"Pediatrics: Cardiology"	MD
+99	"Pediatrics: Hematology/Oncology"	MD
+1011	"Dermatology: Mohs-Micrographic Surgery"	DO
+1044	"Neurology: Child/Adolescent Neurology"	DO

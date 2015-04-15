@@ -1,0 +1,83 @@
+license_no	conviction_date	conviction_location	conviction_code	conviction_description	conviction_city	conviction_state	conviction_country	conviction_type	sentence_date	suspended_years	suspended_months	served_years	served_months
+101012702	"1967-05-06 00:00:00"	Federal	"Income tax evasion"	"Income tax evasion"	Richmond	VA		"Incarceration and probation"	"1967-05-06 00:00:00"	0	6	0	3
+101016678	"1994-04-01 00:00:00"	Federal	"Title 18, United States Code, Section 1341"	"mail fraud informational"	Richmond	Virginia		"Incarceration and probation"	"1994-04-01 00:00:00"	0	0	0	4
+101016882	"1989-04-07 00:00:00"	State	18.2-248	"ILLEGAL DISTRIBUTION OF A CONTROLLED SUBSTANCE."	ABINGDON	VIRGINIA	USA	"Incarceration and probation"	"1989-05-08 00:00:00"	7	0	3	0
+101018623	"2000-11-21 00:00:00"	Federal	18USC371	"Conspiracy to defraud the Internal Revenue Service"	Abingdon	Virginia		"Incarceration and probation"	"2000-11-21 00:00:00"	0	0	0	10
+101020388	"1985-04-24 00:00:00"	State	54-524.50:1	"accomodation -prescribing controlled medication outside a bone-fide doctor-patient relationship"	ALEXANDRIA	VA		"Unsupervised probation"	"1985-09-30 00:00:00"	0	5	0	5
+101020533	"1984-07-02 00:00:00"	State	"54-316 (3)"	"Unlawful writing of controlled prescriptions"	Danville	VA		"Unsupervised probation"	"1984-09-01 00:00:00"	20	0	0	0
+101020533	"1984-07-02 00:00:00"	State	54.1-2908	"Fraudulent prescription writing"	Danville	VA		"Unsupervised probation"	"1984-08-02 00:00:00"	20	0	20	0
+101021711	"1988-06-15 00:00:00"	Federal	UNK	"Aggravated assault"	Nashville	TN		"Incarceration and probation"	"1988-11-15 00:00:00"	0	0	1	8
+101023724	"1990-11-05 00:00:00"	State	90-00078-01	"INCOME TAX EVASION"	RICHMOND	VA	USA	"Active supervised probation"	"1990-11-05 00:00:00"	0	0	2	1
+101024040	"1981-09-30 00:00:00"	State	"KY 81CR312"	"Obtaining controlled substance by fraud and Receiving Stolen Property"	Lexington	KY		"Incarceration and probation"	"1981-09-30 00:00:00"	0	0	0	9
+101024040	"1982-07-09 00:00:00"	State	"TN 82-36-16,246k"	"Two Counts – Attempting to obtain controlled substance by fraud"	Blountville	TN		"Incarceration and probation"	"1982-07-26 00:00:00"	0	0	1	0
+101027486	"1999-03-15 00:00:00"	Federal	T.18:2252(a)(1)	"Transporting through the mail materials involving the sexual exploitation of minors"	"Virginia Beach"	Virginia		"Incarceration and probation"	"1999-03-15 00:00:00"	0	0	3	0
+101027784	"1995-08-23 00:00:00"	State	"CRC95-28-32 and 67-70"	"Injection and prescription of controlled substance"									
+													
+101029440	"1983-08-03 00:00:00"	State	224341234	"Various drug offenses.  Board is aware of all.  No problems since 1983"	Chesapeake	Virginia		"Incarceration and probation"	"1983-12-05 00:00:00"	0	0	3	6
+101029583	"1983-05-15 00:00:00"	Federal	xxxx	"income tax evasion"	Alexandria	Virginia	USA	"Active supervised probation"	"1985-06-15 00:00:00"	0	6	0	6
+101031919	"1995-11-08 00:00:00"	Federal	"26 USC Section 7206(1)"	"Filing False Tax Returns"	Norfolk	VA	USA	"Active supervised probation"	"1996-04-12 00:00:00"	0	0	5	0
+101032261	"1993-10-24 00:00:00"	Federal	"cannot recall"	"Illegal prescribing og Sheduled drugs 11 to 1V on 19 counts."	"norotn and clintwood"	VA		"Incarceration and probation"	"1994-02-24 00:00:00"	5	6	2	6
+101032827	"2006-06-20 00:00:00"	State	54.1-2409	"Convicted of obtaining possession of hydrocodone by Fraud, Forgery,Deception or Subterfuge"	Alexandria	VA		"Active supervised probation"	"2006-06-29 00:00:00"	0	0	1	0
+101033240	"2000-05-15 00:00:00"	Federal	"21 USC SEC. 843a3"	"Unlawful purchase of schedule III substances."	Charlottesville	Virginia		"Active supervised probation"	"2000-08-17 00:00:00"	0	0	2	5
+101033524	"2009-02-09 00:00:00"	Federal	"18 U.S.C. 1001"	"False Statement"	"Greenbelt "	Maryland		"Active supervised probation"	"2009-02-09 00:00:00"	0	0	0	10
+101034773	"2008-11-17 00:00:00"	Federal	"18 USC 922(d)(1)"	"In 2005  gave a firearm to a friend who had a previous felony conviction. "	Roanoke	VA		"Unsupervised probation"	"2008-11-18 00:00:00"	0	12	0	12
+101035131	"1992-11-09 00:00:00"	Federal	"ptitle 18 sec 1341"	"see board order 1993"	norfolk	Va		"Active supervised probation"	"1992-11-09 00:00:00"	5	0	5	0
+101035131	"1993-01-22 00:00:00"	Federal	18:1341	"pled guilty to one count Mail Fraud"	norfolk	va		"Active supervised probation"	"1993-01-22 00:00:00"	5	0	5	0
+101035322	"1991-11-13 00:00:00"	Federal	"Title 21 Section 843(a)(3)"	"Obtaining controlled substances by fraud"	Norfolk	Virginia		"Incarceration and probation"	"1991-11-13 00:00:00"	0	0	0	2
+101037034	"1992-08-14 00:00:00"	State	maryland	"improper medical billing"									
+													
+101037354	"2000-09-29 00:00:00"	Federal	"Virginia,"	"One count of Income Tax Evasion 1994"	"Eastern District,Alexandria"	Virginia		"Incarceration and probation"	"2000-11-20 00:00:00"	0	0	0	9
+101038398	"2006-10-18 00:00:00"	Federal	"18:1001(a)(2):18:1512 (c)(2)"	"Non-Health Related 1)False statement 2)obstruction of justice"	Richmond	VA		"Incarceration and probation"	"2006-12-15 00:00:00"	0	0	1	6
+101038709	"1970-07-15 00:00:00"	Federal	"21 U.S.C. Â§ 811"	"Marijuana Posession"	"Menlo Park"	California		"Unsupervised probation"	"1970-07-15 00:00:00"	0	6	0	6
+101038829	"1999-08-03 00:00:00"	Federal	"T.21:843(a)(3) and 18:2"	"renew prescription for a controlled substance to a person, not a bona fide patient"	Norfolk	VA		"Active supervised probation"	"1999-11-09 00:00:00"	0	0	2	0
+101039742	"1993-12-15 00:00:00"	Federal	"1 count of mail fraud in 1993"	"Insurance mail fraud in 1993."	"virginia beach"	va		"Unsupervised probation"	"1993-12-15 00:00:00"	0	0	1	0
+101039742	"1993-12-15 00:00:00"	Federal	"Title18 Section1341"	"Improper billing of Medicare"	Norfolk	Virginia		"Active supervised probation"	"1993-12-15 00:00:00"	0	0	3	6
+101041770	"1983-12-23 00:00:00"	Federal	unknown	"Self use and abuse of office medications and delivery beyond the scope ov medical practice."	"Green River"	WY		"Incarceration and probation"	"1984-01-15 00:00:00"	0	0	0	4
+101042565	"1999-12-17 00:00:00"	Federal	"26 USC 7212, 18 USC  1001, 18 USC 1503, 26 USC 7206          "	"Interfering with IRS Laws. False Statement. Influencing Grand Jury Witness. False Tax Returns "	Roanoke	VA	USA	"Incarceration and probation"	"1999-12-17 00:00:00"	0	0	1	4
+101044170	"2001-07-27 00:00:00"	Federal	"21 U.S.C. Sec. 843(a)(3)"	"Possession of Meperidine Hydrochloride (Demerol) by Fraud and Deceit, Schedule II"	Leesburg	VA		"Incarceration and probation"	"2001-07-27 00:00:00"	0	0	1	6
+101044684	"2004-11-04 00:00:00"	Federal	"18 U.S. C. S. 371"	"Inflating office bills (health care fraud)"	Alexandria	Virginia		"Incarceration and probation"	"2005-02-23 00:00:00"	0	0	1	6
+101045410	"2004-04-19 00:00:00"	Federal	21U.S.C.&846	"Conspiracy to distribute and dispense schedule III&IV controlled substances."	Alexandria	Virginia		"Active supervised probation"	"2004-07-23 00:00:00"	0	0	2	0
+101047343	"1995-04-13 00:00:00"	Federal	18:1341	"Mail fraud."	Charlottesville	Virginia		"Incarceration and probation"	"1995-04-13 00:00:00"	0	0	0	10
+101050384	"2001-05-16 00:00:00"	State	1998-cr-2434	"Accident in 1996. Plea bargain Intoxication manslaughter in 2001.  "	"San Antonio"	TX		"Active supervised probation"	"2001-05-16 00:00:00"	10	0	0	0
+101051281	"2009-02-18 00:00:00"	State	"18.2-111 & 95"	"Embezzlement; Did not involve any aspect of patient care, insurance fraud, controlled substances"	Charlottesville	VA		"Unsupervised probation"	"2009-02-18 00:00:00"	20	0	0	0
+101055461	"1986-12-15 00:00:00"	State	86CRS534	"Felony possession of a controlled substance with intent to sell and deliver."	Bakersville	"North Carolina"		"Incarceration and probation"	"1986-12-15 00:00:00"	0	0	3	0
+101055856	"2005-10-31 00:00:00"	Federal	"841 (a) (1)"	"I pleaded guilty on 10/31/2005, unlawfully,knowingly and intentionally prescribed Percocet"	"United States District Court, Eastern District of Virginia"	Virginia		"Active supervised probation"	"2005-10-31 00:00:00"	5	0	5	0
+101056137	"1974-01-18 00:00:00"	State	54-524.101.	"Distribution of a Controlled Substance"	Richmond	Virginia		"Incarceration and probation"	"1974-01-18 00:00:00"	0	0	2	0
+101056137	"1981-07-31 00:00:00"	State	18.2-193.	"Credit Card Fraud"	Richmond	Virginia		"Incarceration and probation"	"1981-07-31 00:00:00"	0	0	2	0
+101058127	"1994-05-17 00:00:00"	Federal	"21 U.S.C.841 (a)(1)"	"Attempted possession of cocaine"	Milwaukee	WI		"Incarceration and probation"	"1994-05-17 00:00:00"	2	11	2	1
+101058449	"2008-01-31 00:00:00"	Other	"<ilitary Tribunal Overseas"	"Military Tribunal in South Korea"	"Kunsan AB"	Korea	"South Korea"	"Incarceration and probation"	"2008-01-31 00:00:00"	0	0	2	5
+101229009	"2010-06-11 00:00:00"	Federal	"18 USC 371 and  18USC1001(a)(2)                                     "	"I was convicted of conspiracy and false statement. I cooperated fully with the U.S government.                                                                                    "	loudoun	VA		"Active supervised probation"	"2010-06-11 00:00:00"	0	11	1	1
+101231458	"2004-06-10 00:00:00"	Federal	"18 USC 2252A"	"Wrongful possession, receipt and distribution of child pornography."	Norfolk	VA		"Incarceration w/o probation"	"2004-06-10 00:00:00"	1	6	1	6
+101234662	"1972-04-10 00:00:00"	State	"Robbery 1 Degree"	"I was arrested in l970 as a teenager, charged and  convicted of robbery and grand larceny."	"White Plains"	"New York"		"Incarceration and probation"	"1972-04-10 00:00:00"	0	0	0	12
+101235681	"2009-11-09 00:00:00"	Federal	54.1-2915.A	"tax evasion"	boston	Mass		"Incarceration and probation"	"2009-11-09 00:00:00"	1	0	0	10
+101237117	"1997-03-04 00:00:00"	Federal	"title 18 section 1341"	"(1) count mail fraud pertaining to practice's contracted billing company"	Columbia	"South Carolina"		"Active supervised probation"	"1997-10-03 00:00:00"	0	0	3	0
+101237455	"1999-02-03 00:00:00"	Federal	"18USC371 , 18USC1347"	"Before became trained Physician in 1996 work as a Med/assist.wrong billing in doc.office by employer"	Queens	"New York"	US	"Incarceration and probation"	"2002-06-20 00:00:00"	0	0	0	6
+101238140	"1986-08-28 00:00:00"	State	"Burglary, Theft of Property"	"I stole property from another's home."	"Pine Bluff"	Arkansas		"Active supervised probation"	"1986-08-28 00:00:00"	3	0	3	0
+101238140	"1995-08-18 00:00:00"	State	"theft of property"	"I shoplifted."	Sherwood	Arkansas		"Incarceration w/o probation"	"1995-08-18 00:00:00"	0	1	0	1
+101238140	"1995-09-30 00:00:00"	State	"Theft of Property"	"I was shoplifting."	Arkadelphia	Arkansas		"Incarceration w/o probation"	"1995-09-30 00:00:00"	0	1	0	1
+101238140	"1996-02-09 00:00:00"	State	"Hot Check/Perfonal property"	"I wrote hot checks."	"Pine Bluff"	Arkansas		"Incarceration and probation"	"1996-02-09 00:00:00"	0	1	0	1
+101238140	"1996-03-08 00:00:00"	State	"Hot Check/Personal Services"	"I wrote hot checks."	Sherwood	Arkansas		"Incarceration w/o probation"	"1996-03-08 00:00:00"	0	3	0	3
+101238140	"1996-11-01 00:00:00"	State	"Hot Check/Personal Services"	"I wrote hot checks."	Arkadelphia	Arkansas		"Incarceration and probation"	"1996-11-01 00:00:00"	4	0	1	7
+101238140	"1996-12-12 00:00:00"	State	"Forgery-2nd Degree and Theft of Property"	"I attempted to purchase a motorcycle using false information."	"Pine Bluff"	Arkansas		"Incarceration and probation"	"1996-12-12 00:00:00"	5	0	1	7
+101239766	"1996-09-16 00:00:00"	Federal	CAUSM0100	"I had problem with IRS"	"Los Angeles"	CA		"Unsupervised probation"	"1997-01-27 00:00:00"	0	0	0	6
+101239766	"1996-09-16 00:00:00"	Federal	causmo100	"I had problem with IRS."	"Los Angeles"	CA		"Unsupervised probation"	"1996-09-16 00:00:00"	0	0	0	6
+101241279	"2005-05-09 00:00:00"	Federal	"18 U.S.C. 924(a)(1)(A)"	"Falsification of an ATF form"	Huntington	WV		"Active supervised probation"	"2005-05-09 00:00:00"	0	1	0	0
+101245168	"1998-11-20 00:00:00"	Federal	26	"Abetting the filing of a false tax return for 1992-1994"	Williamsport	Pa.	USA	"Incarceration and probation"	"1999-08-20 00:00:00"	2	0	2	0
+101248252	"2000-03-06 00:00:00"	Federal	"CCA 34048"	"use of LSD, disorderly conduct, failure to go while in the USAF.  Prosecuted by the military"	"Travis AFB"	CA		"Incarceration w/o probation"	"1999-03-06 00:00:00"	0	0	0	9
+101249437	"2007-04-15 00:00:00"	State	"North Carolina"	"felony speeding violation - fine paid"	Williamston	NC		"Unsupervised probation"	"2007-07-15 00:00:00"	0	0	0	12
+101250775	"2010-10-25 00:00:00"	Federal	"!* USC 371"	"Conspiracy to commit wire fraud"	Newark	"New Jersey"		"Active supervised probation"	"2010-10-25 00:00:00"	5	0	0	0
+101253317	"2011-08-23 00:00:00"	State	Illinois	"Driving with a suspended license after summary suspension"	Chicago	Illinois	"United States"	"Active supervised probation"	"2011-08-23 00:00:00"	0	0	1	6
+101253717	"2001-12-12 00:00:00"	Federal	21USC846	"21USC846 Conspiracy. The incident dates back 22 years ago.  Before medical school/medical career"	Boston	MA	US	"Incarceration and probation"	"2001-12-12 00:00:00"	0	0	4	0
+101254631	"1986-01-31 00:00:00"	State	"53A-119 (2) AND 53A-122 (A) (2)"	"larceny in the first degrees"	fAIRFIELD	cONNECTICUT		"Incarceration and probation"	"1986-01-31 00:00:00"	10	0	6	0
+101254631	"1986-01-31 00:00:00"	State	"53A-119(2),53A-122(A)(3), 53A-49 AND 53A-122 (3), 53A-119(8) AND 53A-122(A)(3)"	"larceny IN THE FIRST DEGREE, 2 COUNTS , AND ATTEMPED LARCENY IN THE FIRST DEGREE"	fAIRFIELD	cONNECTICUT		"Incarceration and probation"	"1986-01-31 00:00:00"	10	0	6	0
+101254631	"1986-01-31 00:00:00"	State	"Section 21a-277 (b)  of the Ct. General Statutes , and violation of the State Dependecy Producing Dr"	"violation of the State Dependency Producing Drug Law, 2 counts."	fAIRFIELD	cONNECTICUT		"Incarceration and probation"	"1986-01-31 00:00:00"	10	0	6	0
+101255635	"2000-11-04 00:00:00"	State	" Class F. G.S. 14-18"	"Car accident."	Raleigh	"North Carolina"		"Active supervised probation"	"2002-01-14 00:00:00"	0	0	3	0
+102050026	"2007-09-04 00:00:00"	Federal	"26 U.S.C. Sec. 7206(1)"	"One count of filing a false tax return.  "	Bluefield	"West Virginia"		"Incarceration and probation"	"2008-09-18 00:00:00"	0	0	1	1
+102201917	"1979-01-08 00:00:00"	State	46.1-176	"Failure to stop at scene of accident in which individual was fatally injured"	"Rocky Mount"	VA		"Incarceration and probation"	"1979-02-02 00:00:00"	3	0	0	4
+102202316	"1992-04-10 00:00:00"	State	18.2-248	"Distributing marjuana"	chesapeake	VA		"Active supervised probation"	"1992-06-04 00:00:00"	5	0	0	0
+102202316	"1992-04-10 00:00:00"	State	18.2-248	"Distribution of cocaine"	Chesapeake	VA		"Active supervised probation"	"1992-06-04 00:00:00"	5	0	0	0
+102202316	"1992-04-10 00:00:00"	State	18.2-256	"Conspiracy to distribute Marjuana"	chesapeake	VA		"Active supervised probation"	"1992-06-04 00:00:00"	5	0	0	0
+102202597	"2011-11-28 00:00:00"	Federal	2:11cr000094-001	"all data was submitted to the Virginia Board of Medicine"	Norfolk	VA		"Active supervised probation"	"2010-11-28 00:00:00"	0	0	0	6
+103000566	"2003-02-03 00:00:00"	Federal	"18 usc 1343, 18usc 201, 18 usc 641"	"Fraud,Bribery and Taking of public records,property,ect."	Salem	Virginia		"Incarceration and probation"	"2003-02-03 00:00:00"	0	0	0	12
+103000665	"2006-02-08 00:00:00"	Federal	"18 USC Section 1341"	"Mail fraud conviction; Billing for supplies used during office surgeries which was not allowed."	Richmond	VA	USA	"Incarceration and probation"	"2006-02-08 00:00:00"	0	0	2	0
+103301030	"2000-02-24 00:00:00"	State	PL-120.10-03	"assault 1st domestic related offense"	Newark	"New York"		"Incarceration and probation"	"2000-02-24 00:00:00"	0	0	5	0

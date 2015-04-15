@@ -1,0 +1,195 @@
+id	school_name	school_type
+1	"Albany Medical College - Albany NY"	med
+2	"Albert Einstein College Of Medicine Of Yeshiva University - Bronx NY"	med
+3	"Baylor College Of Medicine - Houston TX"	med
+4	"Boston University School Of Medicine - Boston MA"	med
+5	"Brown University School Of Medicine - Providence RI"	med
+6	"Case Western Reserve University School Of Medicine - Cleveland OH"	med
+7	"Columbia University College Of Physicians And Surgeons - New York NY"	med
+8	"Creighton University School Of Medicine - Omaha NE"	med
+9	"Dalhousie University Faculty Of Medicine - Halifax, NS Canada"	med
+10	"Dartmouth Medical School - Hanover NH"	med
+11	"Duke University School Of Medicine - Durham NC"	med
+12	"East Tennessee State University James H. Quillen College Of Medicine - Johnson City TN"	med
+13	"Eastern Virginia Medical School Of The Medical College Of Hampton Roads - Norfolk VA"	med
+14	"Emory University School Of Medicine - Atlanta GA"	med
+91	"University of Iowa Roy J. and Lucille A. Carver College of Medicine - Iowa City IA"	med
+16	"George Washington University School Of Medicine And Health Sciences - Washington DC"	med
+17	"Georgetown University School Of Medicine - Washington DC"	med
+18	"Harvard Medical School - Boston MA"	med
+19	"Howard University College Of Medicine - Washington DC"	med
+20	"Indiana University School Of Medicine - Indianapolis IN"	med
+21	"Jefferson Medical College Of Thomas Jefferson University - Philadelphia PA"	med
+81	"David Geffen School of Medicine at UCLA - Los Angels CA"	med
+88	"University of Florida College of Medicine - Gainesville, FL"	med
+24	"Johns Hopkins University School Of Medicine - Baltimore MD"	med
+25	"Keck School Of Medicine At The University Of Southern California - Los Angeles CA"	med
+26	"Laval University Faculty Of Medicine - Quebec City PQ Canada"	med
+27	"Loma Linda University School Of Medicine - Loma Linda CA"	med
+28	"Louisiana State University School Of Medicine In New Orleans - New Orleans LA"	med
+29	"Louisiana State University School Of Medicine In Shreveport - Shreveport LA"	med
+30	"Loyola University Chicago Stritch School Of Medicine - Maywood IL"	med
+90	"University of Illinois at Chicago College of Medicine - Chicago IL"	med
+32	"Mayo Medical School - Rochester MN"	med
+33	"McGill University Faculty Of Medicine - Montreal PQ Canada"	med
+34	"McMaster University School Of Medicine - Hamilton ON Canada"	med
+35	"Medical College Of Georgia School Of Medicine - Augusta GA"	med
+36	"Medical College Of Ohio - Toledo OH"	med
+37	"Medical College Of Wisconsin - Milwaukee WI"	med
+38	"Medical University Of South Carolina College Of Medicine - Charleston SC"	med
+39	"Meharry Medical College School Of Medicine - Nashville TN"	med
+40	"Memorial University Of Newfoundland Faculty Of Medicine - St. Johns, NF Canada"	med
+41	"Mercer University School Of Medicine- Macon GA"	med
+42	"Michigan State University College Of Human Medicine - East Lansing MI"	med
+43	"Morehouse School Of Medicine - Atlanta GA"	med
+44	"Mount Sinai School Of Medicine Of New York University - New York NY"	med
+45	"New York Medical College - Valhalla NY"	med
+46	"New York University School Of Medicine - New York NY"	med
+47	"Northeastern Ohio Universities College Of Medicine - Rootstown OH"	med
+143	"University of Illinois College of Medicine at Peoria - Peoria IL"	med
+49	"Ohio State University College Of Medicine And Public Health - Columbus OH"	med
+50	"Oregon Health Sciences University School Of Medicine - Portland OR"	med
+51	"Pennsylvania State University College Of Medicine - Hershey PA"	med
+52	"Ponce School Of Medicine - Ponce PR"	med
+53	"Queen’s University Faculty Of Health Sciences - Kingston ON Canada"	med
+54	"Rush Medical College Of Rush University - Chicago IL"	med
+55	"Saint Louis University School Of Medicine - St. Louis MO"	med
+56	"Southern Illinois University School Of Medicine - Springfield IL"	med
+57	"Stanford University School Of Medicine - Stanford CA"	med
+144	"University of Illinois College of Medicine at Rockford - Rockford IL"	med
+148	"Florida State University College of Medicine - Tallahassee FL"	med
+149	"Virginia Tech Carilion School of Medicine - Roanoke VA"	med
+150	"Virginia Commonwealth University School Of Medicine-INOVA Campus - Falls Church VA"	med
+62	"Temple University School Of Medicine - Philadelphia PA"	med
+63	"Texas Tech University Health Sciences Center School Of Medicine - Lubbock TX"	med
+151	"The Commonwealth Medical College - Scranton, PA"	med
+349	"Arizona School of Podiatric Medicine, Midwestern University - Glendale, AZ"	pod
+66	"Tufts University  School Of Medicine - Boston MA"	med
+67	"Tulane University School Of Medicine - New Orleans LA"	med
+68	"University of Medicine and Dentistry of New Jersey - New Jersey Medical School - Newark NJ"	med
+69	"Uniformed Services University Of The Health Sciences F. Edward Hébert School Of Medicine - Bethesda MD"	med
+70	"Universidad Central Del Caribe School Of Medicine - Bayamon PR"	med
+71	"Universite De Montreal Faculty Of Medicine - Montreal PQ Canada"	med
+72	"Universite De Sherbrooke Faculty Of Medicine - Sherbrooke PQ Canada"	med
+73	"University Of Alabama School Of Medicine - Birmingham AL"	med
+74	"University Of Alberta Faculty Of Medicine And Dentistry - Edmonton AB Canada"	med
+75	"University Of Arizona College Of Medicine"	med
+76	"University Of Arkansas College Of Medicine - Little Rock AR"	med
+77	"University Of British Columbia Faculty Of Medicine - VAncouver BC Canada"	med
+78	"University Of Calgary Faculty Of Medicine - Calgary AB Canada"	med
+79	"University Of California, Davis, School Of Medicine - Davis CA"	med
+80	"University Of California, Irvine, College Of Medicine - Irvine CA"	med
+271	"Lincoln Memorial University, DeBusk College of Osteopathic Medicine – Harrogate TN"	ost
+82	"University Of California, San Diego, School Of Medicine - La Jolla CA"	med
+83	"University Of California, San Francisco, School Of Medicine - San Francisco CA"	med
+152	"Hofstra North Shore-LIJ School of Medicine  - Hempstead NY "	med
+85	"University Of Cincinnati College Of Medicine - Cincinnati OH"	med
+86	"University Of Colorado Health Sciences Center School Of Medicine - Denver CO"	med
+87	"University Of Connecticut School Of Medicine - Farmington CT"	med
+153	"University Of South Carolina School Of Medicine – Greensville SC"	med
+89	"University Of Hawaii John A. Burns School Of Medicine - Honolulu HI"	med
+92	"University Of Kansas School Of Medicine - Kansas City KS"	med
+93	"University Of Kentucky College Of Medicine - Lexington KY"	med
+94	"University Of Louisville School Of Medicine - Louisville KY"	med
+95	"University Of Manitoba Faculty Of Medicine - Winnipeg MB Canada"	med
+96	"University Of Maryland School Of Medicine - Baltimore MD"	med
+97	"University Of Massachusetts Medical School - Worcester MA"	med
+99	"University Of Miami School Of Medicine - Miami FL"	med
+100	"University Of Michigan Medical School - Ann Arbor MI"	med
+101	"University Of Minnesota Medical School - Twin Cities - Minneapolis MN"	med
+103	"University Of Mississippi School Of Medicine - Jackson MS"	med
+104	"University Of Missouri - Columbia School Of Medicine - Columbia MO"	med
+105	"University Of Missouri - Kansas City School Of Medicine - Kansas City MO"	med
+106	"University Of Nebraska College Of Medicine - Omaha NE"	med
+107	"University Of NeVAda School Of Medicine - Reno NV"	med
+108	"University Of New Mexico School Of Medicine - Albuquerque NM"	med
+109	"University Of North Carolina At Chapel Hill School Of Medicine - Chapel Hill NC"	med
+110	"University Of North Dakota School Of Medicine And Health Sciences - Grand Forks ND"	med
+111	"University Of Oklahoma College Of Medicine - Oklahoma City OK"	med
+112	"University Of Ottawa Faculty Of Medicine - Ottawa, ON Canada"	med
+113	"University Of Pennsylvania School Of Medicine - Philadelphia PA"	med
+114	"University Of Pittsburgh School Of Medicine - Pittsburgh PA"	med
+115	"University Of Puerto Rico School Of Medicine - San Juan PR"	med
+116	"University Of Rochester School Of Medicine And Dentistry - Rochester NY"	med
+117	"University Of Saskatchewan College Of Medicine - Saskatoon Sk Canada"	med
+118	"University Of South Alabama College Of Medicine - Mobile AL"	med
+119	"University Of South Carolina School Of Medicine - Columbia SC"	med
+120	"University Of South Dakota School Of Medicine - Sioux Falls  SD"	med
+121	"University Of South Florida College Of Medicine - Tampa FL"	med
+123	"University Of Texas Medical School At San Antonio - San Antonio TX"	med
+125	"University Of Texas  - Houston Medical School - Houston TX"	med
+126	"University Of Texas Medical Branch At Galveston - Galveston TX"	med
+127	"University Of Toronto Faculty Of Medicine - Toronto ON Canada"	med
+128	"University Of Utah School Of Medicine - Salt Lake City UT"	med
+129	"University Of Vermont College Of Medicine - Burlington VT"	med
+130	"University Of Virginia School Of Medicine - Charlottesville VA"	med
+131	"University Of Washington School Of Medicine - Seattle WA"	med
+132	"University Of Western Ontario Faculty Of Medicine & Dentistry London ON Canada"	med
+133	"University Of Wisconsin Medical School - Madison WI"	med
+134	"Vanderbilt University School Of Medicine - Nashville TN"	med
+135	"Virginia Commonwealth University School Of Medicine (Previously MCV) - Richmond VA"	med
+136	"Wake Forest University School Of Medicine - Winston-Salem NC"	med
+137	"Washington University School Of Medicine - St. Louis MO"	med
+138	"Wayne State University School Of Medicine - Detroit MI"	med
+139	"West Virginia University School Of Medicine - Morgantown WV"	med
+140	"Wright State University School Medicine - Dayton OH"	med
+141	"Yale University School Of Medicine - New Haven CT"	med
+342	"Barry University School Of Graduate Medical Sciences - Miami Shores FL"	pod
+344	"Des Moines University College Of Podiatric Medicine And Surgery - Des Moines IA"	pod
+346	"New York College Of Podiatric Medicine - New York NY"	pod
+347	"Ohio College Of Podiatric Medicine - Cleveland OH"	pod
+348	"Temple University School Of Podiatric Medicine - Philadelphia PA"	pod
+249	"Midwestern University Arizona College of Osteopathic Medicine - Glendale AZ"	ost
+250	"Midwestern University Chicago College of Osteopathic Medicine - Downers Grove IL"	ost
+254	"Michigan State University, College Of Osteopathic Medicine - East Lansing MI"	ost
+251	"Des Moines University College of Osteopathic Medicine - Des Moines IA"	ost
+256	"Nova Southeastern University, College Of Osteopathic Medicine - Fort Lauderdale FL"	ost
+257	"Ohio University, College Of Osteopathic Medicine - Athens OH"	ost
+255	"New York College of Osteopathic Medicine of the New York Institute of Technology - Old Westbury NY"	ost
+259	"Philadelphia College Of Osteopathic Medicine - Philadelphia PA"	ost
+260	"Pikeville College School Of Osteopathic Medicine - Pikeville KY"	ost
+258	"Oklahoma State University Center for Health Sciences College of Osteopathic Medicine - Tulsa OK"	ost
+261	"Kansas City University of Medicine and Bioscience College of Osteopathic Medicine - Kansas City MO"	ost
+263	"University Of Medicine And Dentistry Of New Jersey, School Of Osteopathic Medicine Academic Center- Stratford NJ"	ost
+264	"University Of New England, College Of Osteopathic Medicine - Biddleford ME"	ost
+265	"University Of North Texas Health Sciences Center At Fort Worth, Texas College Of Osteopathic Medicine - Fort Worth TX"	ost
+266	"Western University Of Health Sciences, College Of Osteopathic Medicine Of The Pacific - Pomona CA"	ost
+267	"West Virginia School Of Osteopathic Medicine - Lewisburg WV"	ost
+142	"University Of Oklahoma College Of Medicine - Tulsa OK"	med
+145	"University of Illinois College of Medicine at Urbana-Champaign- Urbana IL"	med
+15	"Rosalind Franklin University of Medicine and Science/Chicago Medical School - North Chicago IL"	med
+61	"University at Buffalo SUNY School of Medicine and Biomedical Sciences - Buffalo NY"	med
+146	"Oral Roberts University School of Medicine - Tulsa OK"	med
+147	"San Juan Bautista Medical School - Puerto Rico USA"	med
+268	"Edward Via Virginia College of Osteopathic Medicine - Blacksburg VA"	ost
+60	"Stony Brook University School of Medicine (SUNY) - Stony Brook NY"	med
+58	"SUNY Downstate Medical Center College of Medicine - Brooklyn NY"	med
+59	"State University of New York (SUNY) Upstate Medical University  - Syracuse NY"	med
+22	"Weill Medical College of Cornell University - New York NY"	med
+23	"Marshall University Joan C. Edwards School of Medicine - Huntington WV"	med
+48	"Northwestern University, Feinberg School of Medicine - Chicago IL"	med
+98	"UMDNJ-Robert Wood Johnson Medical School - Piscataway/New Brunswick/Camden NJ"	med
+84	"University of Chicago Pritzker School of Medicine - Chicago IL"	med
+122	"University of Tennessee Health Science Center College of Medicine - Memphis TN"	med
+124	"University of Texas Southwestern Medical Center at Dallas - Dallas TX"	med
+31	"Drexel University College of Medicine - Philadelphia PA"	med
+102	"University of Minnesota Medical School - Duluth - Duluth MN"	med
+65	"Texas A & M University System Health Science Center College of Medicine - College Station TX"	med
+64	"Brody School of Medicine at East Carolina University - Greenville NC"	med
+343	"California School of Podiatric Medicine at Samuel Merritt College - Oakland CA"	pod
+345	"Dr. William M. Scholl College of Podiatric Medicine at Rosalind Franklin University of Medicine and Science - North Chicago IL"	pod
+262	"Touro University College of Osteopathic Medicine - CA - Vallejo CA"	ost
+252	"A. T. Still University of Health Sciences Kirksville College of Osteopathic Medicine - Kirksville MO"	ost
+253	"Lake Erie College of Osteopathic Medicine - Erie - Erie PA"	ost
+269	"Lake Erie College of Osteopathic Medicine - Bradenton - Bradenton FL"	ost
+270	"Touro University College of Osteopathic Medicine - Henderson NV"	ost
+272	"Alabama College of Osteopathic Medicine- Dothan AL"	ost
+273	"AT Still University of Health Sciences, School of Osteopathic Medicine in Arizona - Mesa AZ"	ost
+274	"Campbell University, School of Osteopathic Medicine - Buies Creek NC"	ost
+275	"Edward Via College of Osteopathic Medicine - Carolinas Campus - Spartanburg SC"	ost
+276	"Marian University, College of Osteopathic Medicine - Indianapolis IN"	ost
+277	"Pacific Northwest University of Health Sciences, College of Osteopathic Medicine - Yakima WA"	ost
+278	"Philadelphia College of Osteopathic Medicine Georgia Campus - Suwanee GA"	ost
+279	"Rocky Vista University College of Osteopathic Medicine - Parker CO"	ost
+280	"Touro College of Osteopathic Medicine - New York NY"	ost
+281	"William Carey University, College of Osteopathic Medicine - Hattiesburg MS"	ost

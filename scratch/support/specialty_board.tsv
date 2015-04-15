@@ -1,0 +1,297 @@
+id	specialty_name	specialty_type
+51	"Anesthesiology: Critical Care Medicine"	abms
+52	"Anesthesiology: Pain Medicine"	abms
+207	"Internal Medicine: Gastroenterology"	abms
+208	"Internal Medicine: Geriatric Medicine"	abms
+210	"Internal Medicine: Infectious Disease"	abms
+212	"Internal Medicine: Medical Oncology"	abms
+214	"Internal Medicine: Pulmonary Disease"	abms
+300	"Obstetrics And Gynecology"	abms
+302	"Obstetrics And Gynecology: Gynecologic Oncology"	abms
+303	"Obstetrics And Gynecology: Maternal & Fetal Medicine"	abms
+400	"Orthopaedic Surgery"	abms
+401	"Orthopaedic Surgery: Surgery of the Hand"	abms
+501	"Pathology: Pathology - Anatomic"	abms
+502	"Pathology: Pathology - Clinical"	abms
+505	"Pathology: Cytopathology"	abms
+506	"Pathology: Dermatopathology"	abms
+510	"Pathology: Pathology - Medical Microbiology"	abms
+513	"Pathology: Pathology - Pediatric"	abms
+552	"Pediatrics: Clinical & Laboratory Immunology"	abms
+553	"Pediatrics: Developmental-Behavioral Pediatrics"	abms
+561	"Pediatrics: Pediatric Gastroenterology"	abms
+565	"Pediatrics: Pediatric Pulmonology"	abms
+566	"Pediatrics: Pediatric Rheumatology"	abms
+652	"Plastic Surgery: Plastic Surgery Within The Head & Neck"	abms
+700	"Preventive Medicine"	abms
+754	"Psychiatry & Neurology: Child & Adolescent Psychiatry"	abms
+755	"Psychiatry & Neurology: Clinical Neurophysiology"	abms
+800	Radiology	abms
+807	"Radiology: Vascular & Interventional Radiology"	abms
+900	"Thoracic and Cardiac Surgery"	abms
+1009	Dermatology	ost
+1018	"Family Physicians: Adolescent/Young Adult Medicine"	ost
+1021	"Internal Medicine"	ost
+1023	"Internal Medicine: Cardiology"	ost
+1034	"Internal Medicine: Rheumatology"	ost
+1035	"Internal Medicine: Addiction Medicine"	ost
+1037	"Internal Medicine: Clinical Cardiac Electrophysiology"	ost
+1038	"Internal Medicine: Geriatric Medicine"	ost
+1039	"Internal Medicine: Sports Medicine"	ost
+1048	"Neurology And Psychiatry: Sports Medicine"	ost
+1058	"Obstetrics & Gynecology: Gynecologic Oncology"	ost
+1059	"Obstetrics & Gynecology: Maternal And Fetal Medicine"	ost
+1061	"Ophthalmology & Otolaryngology-Head & Neck Surgery: Ophthalmology"	ost
+1063	"Ophthalmology & Otolaryngology-Head & Neck Surgery: Facial Plastic Surgery"	ost
+1064	"Ophthalmology & Otolaryngology-Head & Neck Surgery: Otolaryngology/Facial Plastic Surgery"	ost
+1067	"Pathology: Anatomic Pathology"	ost
+1069	"Pathology: Forensic Pathology"	ost
+1070	"Pathology: Blood Banking/Transfusion Medicine"	ost
+1071	"Pathology: Chemical Pathology"	ost
+1073	"Pathology: Dermatopathology"	ost
+1076	"Pathology: Medical Microbiology"	ost
+1080	"Pediatrics: Neonatology"	ost
+1106	"Radiology: Neuroradiology"	ost
+1110	"Physical Medicine and Rehabilitation: Sports Medicine"	ost
+1111	"Neuromusculoskeletal Medicine: Special Proficiency In Neuro-Musculoskeletal Medicine"	ost
+1113	"Surgery: General"	ost
+1115	"Surgery: Plastic And Reconstructive Surgery"	ost
+2002	"Foot Surgery"	pod
+2004	"Reconstructive Rearfoot/Ankle Surgery"	pod
+2005	"Primary Care in Podiatric Medicine"	pod
+2006	"Podiatric Surgery"	pod
+2007	"Prevention and treatment of Diabetic Foot Wounds"	pod
+760	"Psychiatry & Neurology: Psychosomatic Medicine"	abms
+761	"Psychiatry & Neurology: Vascular Neurology"	abms
+53	"Anesthesiology: Hospice & Palliative Medicine"	abms
+165	"Emergency Medicine: Hospice & Palliative Medicine"	abms
+183	"Family Medicine: Adolescent Medicine"	abms
+184	"Family Medicine: Hospice & Palliative Medicine"	abms
+217	"Internal Medicine: Hospice & Palliative Medicine"	abms
+218	"Internal Medicine: Sleep Medicine"	abms
+219	"Internal Medicine: Transplant Hepatology"	abms
+305	"Obstetrics And Gynecology: Hospice & Palliative Medicine"	abms
+454	"Otolaryngology: Sleep Medicine"	abms
+568	"Pediatrics: Child Abuse Pediatrics"	abms
+50	Anesthesiology	abms
+150	Dermatology	abms
+152	"Dermatology: Dermatopathology"	abms
+153	"Dermatology: Pediatric Dermatology"	abms
+162	"Emergency Medicine: Pediatric Emergency Medicine"	abms
+164	"Emergency Medicine: Undersea & Hyperbaric Medicine"	abms
+180	"Family Medicine"	abms
+181	"Family Medicine: Geriatric Medicine"	abms
+182	"Family Medicine: Sports Medicine"	abms
+190	"Medical Genetics: Clinical Biochemical Genetics"	abms
+192	"Medical Genetics: Clinical Genetics (M.D.)"	abms
+193	"Medical Genetics: Clinical Molecular Genetics"	abms
+201	"Internal Medicine: Adolescent Medicine"	abms
+202	"Internal Medicine: Cardiovascular Disease"	abms
+205	"Internal Medicine: Critical Care Medicine"	abms
+213	"Internal Medicine: Nephrology"	abms
+453	"Otolaryngology: Plastic Surgery Within The Head And Neck"	abms
+503	"Pathology: Blood Banking/Transfusion Medicine"	abms
+504	"Pathology: Pathology - Chemical"	abms
+508	"Pathology: Pathology - Hematology"	abms
+509	"Pathology: Immunopathology"	abms
+511	"Pathology: Pathology - Molecular Genetic"	abms
+512	"Pathology: Neuropathology"	abms
+550	Pediatrics	abms
+551	"Pediatrics: Adolescent Medicine"	abms
+554	"Pediatrics: Medical Toxicology"	abms
+557	"Pediatrics: Pediatric Cardiology"	abms
+558	"Pediatrics: Pediatric Critical Care Medicine"	abms
+563	"Pediatrics: Pediatric Infectious Diseases"	abms
+600	"Physical Medicine & Rehabilitation"	abms
+601	"Physical Medicine & Rehabilitation: Pain Medicine"	abms
+603	"Physical Medicine & Rehabilitation: Pediatric Rehabilitation Medicine"	abms
+651	"Plastic Surgery: Surgery of the Hand"	abms
+702	"Preventive Medicine: Occupational Medicine"	abms
+704	"Preventive Medicine: Medical Toxicology"	abms
+705	"Preventive Medicine: Undersea & Hyperbaric Medicine"	abms
+750	"Psychiatry & Neurology: Psychiatry"	abms
+759	"Psychiatry & Neurology: Pain Medicine"	abms
+850	Surgery	abms
+1000	"Ophthalmology & Otolaryngology-Head &Neck Surgery"	ost
+1006	"Anesthesiology: Addiction Medicine"	ost
+1007	"Anesthesiology: Critical Care Medicine"	ost
+1010	"Dermatology: Dermatopathology"	ost
+1011	"Dermatology: Mohs-Micrographic Surgery"	ost
+1012	"Emergency Medicine"	ost
+1013	"Emergency Medicine: Emergency Medical Services"	ost
+1015	"Emergency Medicine: Sports Medicine"	ost
+1016	"Family Physicians"	ost
+1017	"Family Physicians: Addiction Medicine"	ost
+1020	"Family Physicians: Sports Medicine"	ost
+1022	"Internal Medicine: Allergy/Immunology"	ost
+1024	"Internal Medicine: Endocrinology"	ost
+1025	"Internal Medicine: Gastroenterology"	ost
+1029	"Internal Medicine: Pulmonary Diseases"	ost
+1032	"Internal Medicine: Nephrology"	ost
+1033	"Internal Medicine: Oncology"	ost
+1036	"Internal Medicine: Critical Care Medicine"	ost
+1043	"Neurology And Psychiatry: Child/Adolescent Psychiatry"	ost
+1045	"Neurology And Psychiatry: Neurology/Psychiatry"	ost
+1046	"Neurology And Psychiatry: Addiction Medicine"	ost
+1057	"Obstetrics & Gynecologic Surgery"	ost
+1065	"Orthopedic Surgery"	ost
+1086	"Pediatrics: Pediatric Intensive Care"	ost
+1088	"Pediatrics: Pediatric Pulmonology"	ost
+1089	"Pediatrics: Sports Medicine"	ost
+1090	"Preventive Medicine: Preventive Medicine/Aerospace Medicine"	ost
+1094	"Preventive Medicine: Occupational Medicine"	ost
+1108	"Radiology: Pediatric Radiology"	ost
+1109	"Physical Medicine and Rehabilitation"	ost
+1117	"Surgery: Urological Surgery"	ost
+2003	"Podiatric Orthopedics and Primary Podiatric Medicine"	pod
+571	"Pediatrics: Hepatology"	abms
+572	"Pediatrics: Sleep Medicine"	abms
+604	"Physical Medicine & Rehabilitation: Hospice & Palliative Medicine"	abms
+605	"Physical Medicine & Rehabilitation: Sports Medicine"	abms
+31	"Allergy And Immunology:  Clinical & Laboratory Immunology"	abms
+100	"Colon & Rectal Surgery"	abms
+161	"Emergency Medicine: Medical Toxicology"	abms
+163	"Emergency Medicine: Sports Medicine"	abms
+191	"Medical Genetics: Clinical Cytogentics"	abms
+195	"Medical Genetics: Molecular Genetic Pathology"	abms
+204	"Internal Medicine: Clinical & Laboratory Immunology"	abms
+206	"Internal Medicine: Endocrinology, Diabetes & Metabolism"	abms
+209	"Internal Medicine: Hematology"	abms
+211	"Internal Medicine: Interventional Cardiology"	abms
+215	"Internal Medicine: Rheumatology"	abms
+250	"Neurological Surgery"	abms
+280	"Nuclear Medicine"	abms
+301	"Obstetrics And Gynecology: Critical Care Medicine"	abms
+304	"Obstetrics And Gynecology: Reproductive Endocrinology/Infertility"	abms
+451	"Otolaryngology: Neurotology"	abms
+500	"Pathology: Pathology-Anatomic/Pathology-Clinical"	abms
+507	"Pathology: Pathology - Forensic"	abms
+555	"Pediatrics: Neonatal-Perinatal Medicine"	abms
+556	"Pediatrics: Neurodevelopmental Disabilities"	abms
+559	"Pediatrics: Pediatric Emergency Medicine"	abms
+560	"Pediatrics: Pediatric Endocrinology"	abms
+564	"Pediatrics: Pediatric Nephrology"	abms
+567	"Pediatrics: Sports Medicine"	abms
+602	"Physical Medicine & Rehabilitation: Spinal Cord Injury Medicine"	abms
+701	"Preventive Medicine: Aerospace Medicine"	abms
+703	"Preventive Medicine: Public Health & General Preventive Medicine"	abms
+751	"Psychiatry & Neurology: Neurology"	abms
+752	"Psychiatry & Neurology: Neurology W/ Special Qual. In Child Neurology"	abms
+753	"Psychiatry & Neurology: Addiction Psychiatry"	abms
+756	"Psychiatry & Neurology: Forensic Psychiatry"	abms
+758	"Psychiatry & Neurology: Neurodevelopmental Disabilities"	abms
+802	"Radiology: Radiation Oncology"	abms
+803	"Radiology: Medical Physics"	abms
+805	"Radiology: Nuclear Radiology"	abms
+806	"Radiology: Pediatric Radiology"	abms
+851	"Surgery: Vascular Surgery"	abms
+852	"Surgery: Pediatric Surgery"	abms
+854	"Surgery: Surgical Critical Care"	abms
+950	Urology	abms
+1005	Anesthesiology	ost
+1008	"Anesthesiology: Pain Management"	ost
+1014	"Emergency Medicine: Medical Toxicology"	ost
+1019	"Family Physicians: Geriatric Medicine"	ost
+1027	"Internal Medicine: Hematology/Oncology"	ost
+1028	"Internal Medicine: Infectious Disease"	ost
+1041	"Neurology And Psychiatry: Neurology"	ost
+1042	"Neurology And Psychiatry: Psychiatry"	ost
+1044	"Neurology And Psychiatry: Child/Adolescent Neurology"	ost
+1053	"Nuclear Medicine: Nuclear Cardiology"	ost
+1055	"Nuclear Medicine: In Vivo And In Vitro Nuclear Medicine"	ost
+1056	"Obstetrics & Gynecology"	ost
+1060	"Obstetrics & Gynecology: Reproductive Endocrinology"	ost
+1062	"Ophthalmology & Otolaryngology-Head & Neck Surgery: Otolaryngology"	ost
+1066	"Pathology: Laboratory Medicine"	ost
+1072	"Pathology: Cytopathology"	ost
+1077	"Pathology: Neuropathology"	ost
+1078	Pediatrics	ost
+1081	"Pediatrics: Pediatric Allergy/Immunology"	ost
+1083	"Pediatrics: Pediatric Endocrinology"	ost
+1084	"Pediatrics: Pediatric Hematology/Oncology"	ost
+1087	"Pediatrics: Pediatric Nephrology"	ost
+1092	"Preventive Medicine: Preventive Medicine/Public Health"	ost
+1096	Radiology	ost
+1097	"Radiology: Diagnostic Radiology"	ost
+1098	"Radiology: Radiation Oncology"	ost
+1099	"Radiology: Diagnostic Roentgenology"	ost
+1101	"Radiology: Roentgenology"	ost
+1103	"Radiology: Angiography & Interventional Radiology"	ost
+1105	"Radiology: Diagnostic Ultrasound"	ost
+1107	"Radiology: Nuclear Radiology"	ost
+1112	"Special Proficiency In Osteopathic Manipulative Medicine: Sports Medicine"	ost
+1114	"Surgery: Neurological Surgery"	ost
+1119	"Surgery: Surgical Critical Care"	ost
+30	"Allergy And Immunology"	abms
+151	"Dermatology: Clinical & Laboratory Dermatological Immunology"	abms
+160	"Emergency Medicine"	abms
+194	"Medical Genetics: Ph.D. Medical Genetics"	abms
+200	"Internal Medicine"	abms
+203	"Internal Medicine: Clinical Cardiac Electrophysiology"	abms
+216	"Internal Medicine: Sports Medicine"	abms
+350	Ophthalmology	abms
+450	Otolaryngology	abms
+452	"Otolaryngology: Pediatric Otolaryngology"	abms
+562	"Pediatrics: Pediatric Hematology-Oncology"	abms
+650	"Plastic Surgery"	abms
+757	"Psychiatry & Neurology: Geriatric Psychiatry"	abms
+801	"Radiology: Diagnostic Radiology"	abms
+804	"Radiology: Neuroradiology"	abms
+853	"Surgery: Surgery Of The Hand"	abms
+1026	"Internal Medicine: Hematology"	ost
+1047	"Neurology And Psychiatry: Neuromusculoskeletal Medicine"	ost
+1049	"Nuclear Medicine"	ost
+1054	"Nuclear Medicine: Nuclear Imaging And Therapy"	ost
+1068	"Pathology: Anatomic Pathology And Laboratory Medicine"	ost
+1074	"Pathology: Hematology-Pathology"	ost
+1075	"Pathology: Immunopathology"	ost
+1079	"Pediatrics: Adolescent/Young Adult Medicine"	ost
+1082	"Pediatrics: Pediatric Cardiology"	ost
+1085	"Pediatrics: Pediatric Infectious Diseases"	ost
+1091	"Preventive Medicine: Preventive Medicine/Occupational-Environmental Medicine"	ost
+1093	"Preventive Medicine: Preventive Medicine/Occupational"	ost
+1095	Proctology	ost
+1102	"Radiology: Radiation Therapy"	ost
+1104	"Radiology: Body Imaging"	ost
+1116	"Surgery: Thoracic Cardiovascular Surgery"	ost
+1118	"Surgery: General Vascular Surgery"	ost
+2001	"Foot & Ankle Surgery"	pod
+569	"Pediatrics: Hospice & Palliative Medicine"	abms
+570	"Pediatrics: Pediatric Transplant Hepatology"	abms
+762	"Psychiatry & Neurology: Hospice & Palliative Medicine"	abms
+763	"Psychiatry & Neurology: Sleep Medicine"	abms
+808	"Radiology: Hospice & Palliative Medicine"	abms
+855	"Surgery: Hospice & Palliative Medicine"	abms
+951	"Urology: Pediatric Urology"	abms
+402	"Orthopaedic Surgery: Orthopaedic Sports Medicine"	abms
+1031	"Internal Medicine: Interventional Cardiology"	ost
+186	"Family Medicine: Sleep Medicine"	abms
+196	"Medical Genetics: Medical Biochemical Genetics"	abms
+606	"Physical Medicine & Rehabilitation: Neuromuscular Medicine"	abms
+764	"Psychiatry & Neurology: Child Neurology"	abms
+765	"Psychiatry & Neurology: Neuromuscular Medicine"	abms
+901	"Thoracic Surgery: Congenital Cardiac Surgery"	abms
+54	"Anesthesiology: Pediatric Anesthesiology"	abms
+55	"Anesthesiology: Sleep Medicine"	abms
+809	"Radiology: Interventional Radiology and Diagnostic Radiology"	abms
+810	"Radiology: Medical Physics - Diagnostic"	abms
+811	"Radiology: Medical Physics - Nuclear"	abms
+812	"Radiology: Medical Physics: - Therapeutic"	abms
+813	"Radiology: Radiation Oncology: Hospice and Palliative"	abms
+166	"Emergency Medicine: Emergency Medical Services"	abms
+167	"Emergency Medicine: Internal Medicine-Critical Care Medicine"	abms
+220	"Internal Medicine: Adult Congenital Heart Disease"	abms
+221	"Internal Medicine: Advanced Heart Failure and Transplant Cardiology"	abms
+306	"Obstetrics And Gynecology: Female Pelvic Medicine and Reconstructive Surgery"	abms
+766	"Psychiatry & Neurology: Brain Injury Medicine"	abms
+767	"Psychiatry & Neurology: Epilepsy"	abms
+514	"Pathology: Clinical Informatics"	abms
+607	"Physical Medicine & Rehabilitation: Brain Injury Medicine"	abms
+706	"Preventive Medicine: Clinical Informatics"	abms
+856	"Surgery: Complex General Surgical Oncology"	abms
+952	"Urology: Female Pelvic Medicine and Reconstructive Surgery"	abms
+1120	"Neurology And Psychiatry: Neurophysiology"	ost
+1121	"Ophthalmology & Otolaryngology-Head & Neck Surgery: Otolaryngic Allergy"	ost
+1122	"Orthopedic Surgery: Hand Surgery"	ost
+1123	"Preventive Medicine: Sports Medicine"	ost
+1124	"Neuromusculosketal Medicine: Sports Medicine"	ost
