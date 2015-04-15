@@ -42,7 +42,7 @@ concat_address|concatenation of all address components except for pp_address2 wh
 * pp_percent_location is sometimes 0, which is nonsensical
 * when percent location is added for each license_no across main_out and secondary_out, ~3000 practitioners claim a total percent location that is not equal to 100, and of those ~700 claim a percent location above 100
 * when practitioner language is accounted for in both main_out and secondary_out, there are ~1000 practitioners who supposedly speak different languages depending on which office they are working in
-* some practitioners are seen, in the words of the Beatles, "8 days a week."  This is because 'None' is one of their entires in addition to every day of the week
+* in both the main and secondary tables some practitioners are seen, in the words of the Beatles, "8 days a week."  This is because 'None' is one of their entires in addition to every day of the week
 * some language entries mistakenly used the names of the languages rather than the codes - this has not been accounted for
 * the column pp_percent_location is original, and probably more useful than count_pp_days_seen which is derived
 * ~1500 unique addresses are not so far geocoded here for main_out - these are often references to a city, a PO box, or a university healthcare system
