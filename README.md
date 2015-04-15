@@ -81,3 +81,4 @@ concat_address|concatenation of all address components except for address2 which
 ##TODO
 
 * check if count_days_seen works with percent_location between primary and secondary addresses
+* change where Makefile points to
