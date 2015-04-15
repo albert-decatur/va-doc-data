@@ -1,7 +1,10 @@
 #va-doc-data
 
-
 Data originally from the [Virginia Department of Health Professions](http://www.dhp.virginia.gov/downloads/profiledata.asp).
+
+## generic
+
+Under output/class find outputs that have had geocoding work redacted for every congressional district so that students can get practice geocoding.
 
 ## main_out
 The following columns are available in the main_out table:
@@ -40,8 +43,7 @@ concat_address|concatenation of all address components except for address2 which
 
 * percent_location has values over 100 - this should not happen
 * percent_location is sometimes 0, which is nonsensical
-* when percent location is added for each license_no across main_out and secondary_out, ~3000 practitioners claim a total percent location that is not equal to 100, and of those ~700 claim a percent location above 100
-  * NB: this was queried before I realized practitioners can have more than two officies recorded - could explain much of the totals that are below 100 - but not totals above 100, some of which I may have missed due to this misunderstanding
+* when percent location is added for each license_no across main_out and secondary_out (taking into account that some practitioners have more than one secondary location), ~1600 practitioners claim a total percent location that is > 100, and for ~3800 practitioners that number is below 100 (very close to 100 for many of those)
 * when practitioner language is accounted for in both main_out and secondary_out, there are ~1000 practitioners who supposedly speak different languages depending on which office they are working in
 * in both the main and secondary tables some practitioners are seen, in the words of the Beatles, "8 days a week."  This is because 'None' is one of their entires in addition to every day of the week
 * some language entries mistakenly used the names of the languages rather than the codes - this has not been accounted for
