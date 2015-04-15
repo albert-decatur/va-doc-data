@@ -36,6 +36,7 @@ concat_address|concatenation of all address components except for pp_address2 wh
 
 ##Caveats
 
+* pp_percent_location has values over 100 - this should not happen
 * some practitioners are seen, in the words of the Beatles, "8 days a week."  This is because 'None' is one of their entires in addition to every day of the week
 * some language entries mistakenly used the names of the languages rather than the codes - this has not been accounted for
 * the column pp_percent_location is original, and probably more useful than count_pp_days_seen which is derived
